@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Aeropuerto Internacional de la CDMX", "code": "MEX" },
+    { "id": 2, "name": "Aeropuerto de Cancún", "code": "CUN" },
+    { "id": 3, "name": "Aeropuerto de Monterrey", "code": "MTY" }
+  ]
